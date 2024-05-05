@@ -12,3 +12,6 @@ print(f"Type nom: {type(nom)}")
 print(f"Type age: {type(age)}")
 print(f"Type taille: {type(taille)}")
 print(f"Type est étudiant: {type(est_etudiant)}")
+
+
+test
